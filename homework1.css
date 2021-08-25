@@ -1,0 +1,32 @@
+.img {
+    z-index: 2;
+    padding-top: 190px;
+    padding-left: 10px;
+    display: inline-block;
+    margin: 0;
+    position: fixed;
+}
+
+.home{
+    padding-top: 170px;
+    padding-left: 187px;
+    position: fixed;
+}
+.header{
+    margin: 10px;
+    position: fixed;
+}
+
+.footer{
+    padding-top: 480px;
+    padding-left: 20px;
+    position: fixed;
+}
+
+.lorem{
+    width: 500px;
+}
+
+html {
+    background-color:  rgb(248, 240, 163);
+}
